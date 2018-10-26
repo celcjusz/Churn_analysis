@@ -1,0 +1,603 @@
+
+Numeric
+
+
+rev_Mean
+
+Mean monthly revenue (charge amount)
+Numeric
+
+
+mou_Mean
+
+Mean number of monthly minutes of use
+Numeric
+
+
+totmrc_Mean
+
+Mean total monthly recurring charge
+Numeric
+
+
+da_Mean
+
+Mean number of directory assisted calls
+Numeric
+
+
+ovrmou_Mean
+
+Mean overage minutes of use
+Numeric
+
+
+ovrrev_Mean
+
+Mean overage revenue
+Numeric
+
+
+vceovr_Mean
+
+Mean revenue of voice overage 
+Numeric
+
+
+datovr_Mean
+
+ Mean revenue of data overage
+Numeric
+
+
+roam_Mean
+
+Mean number of roaming calls
+Numeric
+
+
+change_mou
+
+Percentage change in monthly minutes of use vs previous three month average
+Numeric
+
+
+change_rev
+
+ Percentage change in monthly revenue vs previous three month average
+Numeric
+
+
+drop_vce_Mean
+
+ Mean number of dropped (failed) voice calls
+Numeric
+
+
+drop_dat_Mean
+
+Mean number of dropped (failed) data calls
+Numeric
+
+
+blck_vce_Mean
+
+Mean number of blocked (failed) voice calls
+Numeric
+
+
+blck_dat_Mean
+
+Mean number of blocked (failed) data calls
+Numeric
+
+
+unan_vce_Mean
+
+Mean number of unanswered voice calls
+Numeric
+
+
+unan_dat_Mean
+
+Mean number of unanswered data calls
+Numeric
+
+
+plcd_vce_Mean
+
+Mean number of attempted voice calls placed
+Numeric
+
+
+plcd_dat_Mean
+
+Mean number of attempted data calls placed
+Numeric
+
+
+recv_vce_Mean
+
+Mean number of received voice calls
+Numeric
+
+
+recv_sms_Mean
+
+ N
+Numeric
+
+
+comp_vce_Mean
+
+Mean number of completed voice calls
+Numeric
+
+
+comp_dat_Mean
+
+Mean number of completed data calls 
+Numeric
+
+
+custcare_Mean
+
+Mean number of customer care calls
+Numeric
+
+
+ccrndmou_Mean
+
+Mean rounded minutes of use of customer care calls
+Numeric
+
+
+cc_mou_Mean
+
+Mean unrounded minutes of use of customer care (see CUSTCARE_MEAN) calls
+Numeric
+
+
+inonemin_Mean
+
+Mean number of inbound calls less than one minute
+Numeric
+
+
+threeway_Mean
+
+Mean number of three way calls 
+Numeric
+
+
+mou_cvce_Mean
+
+Mean unrounded minutes of use of completed voice calls
+Numeric
+
+
+mou_cdat_Mean
+
+Mean unrounded minutes of use of completed data calls
+Numeric
+
+
+mou_rvce_Mean
+
+Mean unrounded minutes of use of received voice calls 
+Numeric
+
+
+owylis_vce_Mean
+
+Mean number of outbound wireless to wireless voice calls 
+Numeric
+
+
+mouowylisv_Mean
+
+Mean unrounded minutes of use of outbound wireless to wireless voice calls
+Numeric
+
+
+iwylis_vce_Mean
+
+ N
+Numeric
+
+
+mouiwylisv_Mean
+
+Mean unrounded minutes of use of inbound wireless to wireless voice calls
+Numeric
+
+
+peak_vce_Mean
+
+Mean number of inbound and outbound peak voice calls
+Numeric
+
+
+peak_dat_Mean
+
+Mean number of peak data calls
+Numeric
+
+
+mou_peav_Mean
+
+Mean unrounded minutes of use of peak voice calls
+Numeric
+
+
+mou_pead_Mean
+
+Mean unrounded minutes of use of peak data calls
+Numeric
+
+
+opk_vce_Mean
+
+Mean number of off-peak voice calls
+Numeric
+
+
+opk_dat_Mean
+
+Mean number of off-peak data calls
+Numeric
+
+
+mou_opkv_Mean
+
+Mean unrounded minutes of use of off-peak voice calls
+Numeric
+
+
+mou_opkd_Mean
+
+Mean unrounded minutes of use of off-peak data calls
+Numeric
+
+
+drop_blk_Mean
+
+Mean number of dropped or blocked calls
+Numeric
+
+
+attempt_Mean
+
+Mean number of attempted calls 
+Numeric
+
+
+complete_Mean
+
+Mean number of completed calls
+Numeric
+
+
+callfwdv_Mean
+
+ Mean number of call forwarding calls 
+Numeric
+
+
+callwait_Mean
+
+Mean number of call waiting calls
+Numeric
+
+
+churn
+
+Instance of churn between 31-60 days after observation date
+Numeric
+
+
+months
+
+Total number of months in service
+Numeric
+
+
+uniqsubs
+
+Number of unique subscribers in the household
+Numeric
+
+
+actvsubs
+
+ Number of active subscribers in household
+String
+
+
+new_cell
+
+New cell phone user
+String
+
+
+crclscod
+
+ Credit class code
+String
+
+
+asl_flag
+
+ Account spending limit
+Numeric
+
+
+totcalls
+
+Total number of calls over the life of the customer
+Numeric
+
+
+totmou
+
+Total minutes of use over the life of the customer
+Numeric
+
+
+totrev
+
+Total revenue
+Numeric
+
+
+adjrev
+
+Billing adjusted total revenue over the life of the customer
+Numeric
+
+
+adjmou
+
+Billing adjusted total minutes of use over the life of the customer
+Numeric
+
+
+adjqty
+
+Billing adjusted total number of calls over the life of the customer 
+Numeric
+
+
+avgrev
+
+Average monthly revenue over the life of the customer
+Numeric
+
+
+avgmou
+
+Average monthly minutes of use over the life of the customer
+Numeric
+
+
+avgqty
+
+Average monthly number of calls over the life of the customer
+Numeric
+
+
+avg3mou
+
+Average monthly minutes of use over the previous three months
+Numeric
+
+
+avg3qty
+
+Average monthly number of calls over the previous three months 
+Numeric
+
+
+avg3rev
+
+Average monthly revenue over the previous three months
+Numeric
+
+
+avg6mou
+
+Average monthly minutes of use over the previous six months
+Numeric
+
+
+avg6qty
+
+Average monthly number of calls over the previous six months
+Numeric
+
+
+avg6rev
+
+Average monthly revenue over the previous six months 
+String
+
+
+prizm_social_one
+
+ Social group letter only
+String
+
+
+area
+
+Geogrpahic area 
+String
+
+
+dualband
+
+Dualband
+String
+
+
+refurb_new
+
+Handset: refurbished or new
+Numeric
+
+
+hnd_price
+
+Current handset price
+Numeric
+
+
+phones
+
+ Number of handsets issued
+Numeric
+
+
+models
+
+Number of models issued
+String
+
+
+hnd_webcap
+
+Handset web capability
+Numeric
+
+
+truck
+
+Truck indicator 
+Numeric
+
+
+rv
+
+RV indicator
+String
+
+
+ownrent
+
+Home owner/renter status
+Numeric
+
+
+lor
+
+Length of residence
+String
+
+
+dwlltype
+
+ Dwelling Unit type
+String
+
+
+marital
+
+Marital Status 
+Numeric
+
+
+adults
+
+Number of adults in household
+String
+
+
+infobase
+
+InfoBase match
+Numeric
+
+
+income
+
+Estimated income
+Numeric
+
+
+numbcars
+
+Known number of vehicles
+String
+
+
+HHstatin
+
+Premier household status indicator
+String
+
+
+dwllsize
+
+Dwelling size 
+Numeric
+
+
+forgntvl
+
+Foreign travel dummy variable
+String
+
+
+ethnic
+
+Ethnicity roll-up code
+String
+
+
+kid0_2
+
+Child 0 - 2 years of age in household
+String
+
+
+kid3_5
+
+Child 3 - 5 years of age in household 
+String
+
+
+kid6_10
+
+Child 6 - 10 years of age in household
+String
+
+
+kid11_15
+
+Child 11 - 15 years of age in household
+String
+
+
+kid16_17
+
+Child 16 - 17 years of age in household
+String
+
+
+creditcd
+
+Credit card indicator
+Numeric
+
+
+eqpdays
+
+Number of days (age) of current equipment
+Numeric
+
+
+Customer_ID
+
+N
+
+
